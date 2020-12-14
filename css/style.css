@@ -604,3 +604,39 @@ p{
 .puplicimg.my-4 {
     margin: 0 120px;
 }
+
+
+/* ----------------------public-----------------*/
+.pp .im img {
+    margin-bottom: 20px;
+}
+.p1{
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.imagesp.container {
+    text-align: center;
+    margin-top: 50px;
+    background: white;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.imagesp.container h2{
+    text-align: center;
+  font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: #1477ae;
+   
+    
+}
+.vedio iframe{
+    width: 500px;
+    height: 360px;
+    border:solid;
+    border-color:blue ;
+    
+}
