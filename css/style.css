@@ -604,3 +604,68 @@ p{
 .puplicimg.my-4 {
     margin: 0 120px;
 }
+/* ----------------------about-----------------*/
+.heroA{
+    background:url(../img/about.jpg) no-repeat;
+    background-size:cover;
+     height:100%;
+    font-size: 70px;
+    margin-bottom: 60px;
+    background-position: center;}
+
+.overlayA {
+     
+     height: 100%;
+     background: rgba(63, 148, 216, 0.4);
+     border: 50px;
+     text-align: right;
+     
+    }
+.about{
+    height:25%px;
+    width: 50%;
+    font-size: 35px;
+    color: #fff;
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.about h2{
+    color: #fff;
+    font-weight: bold;
+    font-size:35px;
+    padding: 10px;
+}
+
+.about p{
+    color: #fff;
+      
+    font-size:20px;
+    padding: 10px;
+}
+
+/* ----------------------Teacher-----------------*/
+.heroT{
+ background:url(../img/about.jpg) no-repeat;
+    background-size:cover;
+     height:100%;
+    width: 100%;
+    font-size: 20px;
+    margin: 20px 0;
+  
+    background-position: center;}
+
+.overlayT {
+        margin-left: 750px;
+    font-weight: bold;
+     height: 100%;
+    font-family:sans-serif;
+     border: 50px;
+   
+  
+}
+.tt{
+    font-size: 25px;
+    color: darkblue;
+}
